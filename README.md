@@ -29,18 +29,10 @@
       <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="80" alt="Spinning Skull">
     </td>
     <td align="left">
-      <h3 align="center">⚠️ WARNING: ROBOTICS ZONE ⚠️</h3>
+      <h3 align="center">🤖 Current Projects 🤖</h3>
       <p>
-        I am currently working on <b>Robotics Perception</b>, <b>RL</b>, and <b>Pedestrian Trajectory Prediction</b>.
+        I am currently working on <b>Agricultural Robotics</b>, <b>Locomotive RL</b>, and <b>Pedestrian Trajectory Prediction</b>.
       </p>
-      <p>
-        <i>"The robots are watching..."</i>
-      </p>
-      <ul>
-        <li><img src="https://media.giphy.com/media/QHE5gWI0QjgDA/giphy.gif" width="15"> <b>System Status:</b> ONLINE</li>
-        <li><img src="https://media.giphy.com/media/QHE5gWI0QjgDA/giphy.gif" width="15"> <b>Mood:</b> HACKING</li>
-        <li><img src="https://media.giphy.com/media/QHE5gWI0QjgDA/giphy.gif" width="15"> <b>Music:</b> TECHNO.MID</li>
-      </ul>
     </td>
     <td align="center" width="150">
        <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley">
@@ -53,30 +45,5 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/13760233/173926591-11913840-798c-4f11-807d-304dfdf76644.gif" width="100%">
-
-<br/><br/>
-
-<p>You are visitor number:</p>
-<img src="https://komarev.com/ghpvc/?username=dfriishecht&label=VISITORS&style=plastic&color=green" alt="Hit Counter">
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="IE Compatible" width="88">
-    </td>
-    <td>
-      <img src="https://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01!">
-    </td>
-    <td>
-      <img src="http://www.w3.org/Icons/mwos800" alt="Made with Notepad">
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<small>Last Update: 1999 (Just Kidding)</small>
 
 </div>
